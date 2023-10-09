@@ -1,5 +1,5 @@
 ﻿
-# Scenario 1 (1/6)
+# Scenario (1/6)
 
 ## Status
 
